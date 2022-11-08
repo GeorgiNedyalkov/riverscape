@@ -18,13 +18,13 @@ Clone of an existing Real Estate Development project using React.
 
 ## Pages
 
-- Create the Home Page
-- Create Vision Page
-- Create Apartments Page
-- Create Neighborhood Page
-- Create Amenities Page
-- Create Location Page
-- Create News Page
+- [] Create the Home Page
+- [] Create Vision Page
+- [] Create Apartments Page
+- [] Create Neighborhood Page
+- [] Create Amenities Page
+- [] Create Location Page
+- [] Create News Page
 
 ## Integrate responsive design for diffirent devices
 
