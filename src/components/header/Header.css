@@ -1,0 +1,24 @@
+.header {
+    height: 95vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 50px;
+    font-size: 50px;
+}
+
+.header-title {
+    font-size: 11rem;
+    text-transform: uppercase;
+    letter-spacing: 1.5rem;
+}
+
+.white-line {
+    width: 200px;
+}
+
+p {
+    margin-top: 40px;
+    font-size: 2rem;
+}

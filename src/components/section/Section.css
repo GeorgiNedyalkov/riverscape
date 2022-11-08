@@ -1,0 +1,46 @@
+.section {
+    width: 100vw;
+    background-color: #fc6b02;
+    text-align: center;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.copy-title {
+    text-align: center;
+    width: 60vw;
+    font-size: 2rem;
+    color: black;
+    background-color: #fc6b02;
+}    
+
+.copy-text {
+    width: 50vw;
+    margin: 30px;
+    background-color: transparent;
+    color: black;
+    font-size: 1.2rem;
+    line-height: 2rem;
+}
+
+.btn {
+    padding: 20px;
+    background-color: transparent;
+    color: black;
+    border: 1px solid black;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 1rem;
+    width: 300px;
+    cursor: pointer;
+}
+
+.icon {
+    margin-top: 100px;
+    height: 50px;
+    width: 50px;
+    background-color: transparent;
+}
