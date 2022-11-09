@@ -14,7 +14,7 @@ Clone of an existing Real Estate Development project using React.
 - [x] Create the Navbar component
 - [x] Create the Header component
 - [] Create offer popup modal component
-- [] Create the Footer component
+- [x] Create the Footer component
 
 ## Pages
 

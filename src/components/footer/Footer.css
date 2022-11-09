@@ -1,1 +1,125 @@
-.footer {}
+.footer {
+    padding: 80px;
+    width: 100%;
+    height: 50vh;
+    background-color: #222;
+    display: flex;
+}
+
+.footer-left {
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+    gap: 70px;
+}
+
+.footer-right {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+}
+
+.footer-right-top {
+    display: flex;
+    justify-content: space-between;
+    gap: 65px;
+    line-height: 2rem;
+}
+
+.footer-right-bottom {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+}
+
+.footer-links {
+    text-transform: uppercase;
+    display: flex;
+    gap: 20px;
+    background: none;
+    font-size: 1rem;
+}
+
+.address {
+    width: 300px;
+}
+
+.copyright{
+    background-color: transparent;
+    font-size: 1rem;
+    margin: 0px;
+}
+
+.logos {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+
+.footer-title {
+    text-transform: capitalize;
+    font-weight: 700;
+}
+
+.riverscape {
+    font-size: 1.6rem;
+    letter-spacing: 5px;
+}
+
+.footer-text {
+    font-size: 1.4rem;
+    width: 100%;
+    font-family: serif;
+}
+
+
+.logo-ballymore {
+    height: 100px;
+}
+
+.cta {
+    display: flex;
+    align-items: start;
+    flex-direction: column;
+}
+
+.footer-btn {
+    width: 120px;
+    height: 40px;
+    font-size: 0.8rem;
+    margin-top: 20px;
+    border: 2px solid white;
+    text-transform: uppercase;
+}
+
+.contact {
+    display: flex;
+    flex-direction: column;
+}
+
+.follow {
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    flex-direction: column;
+}
+
+.contact,
+.cta,
+.footer-left,
+.footer-right,
+.logos,
+.address,
+.footer-text,
+.follow,
+.footer-link,
+.footer-title,
+.footer-right-top,
+.footer-right-bottom,
+.footer-icon,
+.footer-icons,
+.footer-btn,
+.logos {
+    background-color: transparent;
+}
